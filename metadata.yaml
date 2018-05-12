@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25371
     wikipedia: http://pt.wikipedia.org/wiki/Alberto_Pimentel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33238#Nervosos-Lymphaticos-e-Sanguineos
 gutenberg_issued: '2010-07-23'
 gutenberg_type: Text
 identifiers:
